@@ -20,8 +20,9 @@ If you don't have any to run .NET applications, follow the next steps.
 
 ### Docker
 In order to run the application, some programs has to be downloaded, such as Docker.
+```
 https://store.docker.com/editions/community/docker-ce-desktop-mac
-
+```
 
 ### SQL Server
 Then download the SQL server image from there so we can stop an run our SQL server service from Docker.
