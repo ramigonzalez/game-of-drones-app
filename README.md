@@ -101,3 +101,13 @@ npm install react react-dom --save-dev
 ```
 npm install @babel/preset-react --save-dev
 ```
+
+
+
+## Observations
+
+### Unit Tests
+Was RESTApi was not tested with unit test, however was tested manually.
+
+### Logging
+The way in which the app is being logged is not properly. 
