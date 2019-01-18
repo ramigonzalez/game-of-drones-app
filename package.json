@@ -1,0 +1,20 @@
+{
+    "name": "gameofdronesapi",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "wbp": "webpack --config webpack.config.js"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.2.2",
+        "@babel/preset-env": "^7.2.3",
+        "@babel/preset-react": "^7.0.0",
+        "babel-loader": "^8.0.0-beta.3",
+        "react": "^16.7.0",
+        "react-dom": "^16.7.0",
+        "webpack": "^3.8.1"
+    },
+    "dependencies": {
+        "bootstrap": "^4.2.1"
+    }
+}
